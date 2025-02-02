@@ -26,3 +26,8 @@ Make sure to set the following environment variables in your `.env` file:
 VITE_SUPABASE_URL=<your-supabase-url>
 VITE_SUPABASE_ANON_KEY=<your-supabase-anon-key>
 VITE_SUPABASE_KEY=<your-supabase-key>
+```
+## Challenged Faced
+
+- Making Funnel Graph responsive
+- Implementing Real-Time Data in the Funnel Graph
